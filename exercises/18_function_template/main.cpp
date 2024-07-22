@@ -1,5 +1,5 @@
 ﻿#include "../exercise.h"
-
+#include <cmath>
 // READ: 函数模板 <https://zh.cppreference.com/w/cpp/language/function_template>
 // TODO: 将这个函数模板化
 template<typename T>

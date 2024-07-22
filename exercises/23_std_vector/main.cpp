@@ -1,6 +1,6 @@
 ﻿#include "../exercise.h"
+#include <cstring>
 #include <vector>
-
 // READ: std::vector <https://zh.cppreference.com/w/cpp/container/vector>
 
 // TODO: 将下列 `?` 替换为正确的代码
