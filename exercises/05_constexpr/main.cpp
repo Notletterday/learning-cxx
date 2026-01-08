@@ -12,7 +12,7 @@ constexpr unsigned long long fibonacci(int i) {
 }
 
 int main(int argc, char **argv) {
-    constexpr auto FIB20 = fibonacci(20);
+    auto FIB20 = fibonacci(20);
     ASSERT(FIB20 == 6765, "fibonacci(20) should be 6765");
     std::cout << "fibonacci(20) = " << FIB20 << std::endl;
 
